@@ -16,3 +16,11 @@ asssetsフォルダがない場合は作成される。
 ```
 
 ![alt text](assets/image-1.png)  
+
+## Markdownスニペット有効化
+Note: 以下の設定をしたが、Markdownでスニペットが有効にならなかった。
+
+settingsの```Markdonw Edit Quick Suggestions```のstringsをonに変更した。  
+参考：https://zenn.dev/takamichie/articles/9902d6f6768532
+![alt text](assets/image-4.png)
+
